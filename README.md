@@ -1,6 +1,6 @@
 # M406A Compressor · Dynamics
 
-Ward-Beck Systems M406A, 1968|1. Wiki page: [M406A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M406A.html)
+Ward-Beck Systems M406A, 1968|1. Wiki page: [M406A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M406A-Compressor/)
 
 | Folder | What is in it | Files |
 |---|---|---|
